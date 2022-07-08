@@ -2,7 +2,7 @@
     padding: 10px;
 }
 div{
-    background-color: rgb(215, 215, 215);
+    background-color: rgb(132, 132, 132);
     text-align: center;
 }
 
@@ -12,7 +12,7 @@ div{
        position: absolute; 
        width: 15%;
        border-radius: 100%;
-       box-shadow: 3px 3px 3px rgb(167, 167, 167);
+       box-shadow: 3px 3px 3px rgb(37, 37, 37);
        left: 3%;
        top: 330px;
     }
